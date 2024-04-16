@@ -1,5 +1,16 @@
 # pet_website
 
+
+# Словарь терминов:
+
+bash - терминал
+(.venv) - виртуальное окружение
+
+## копирование проекта
+```bash
+git clone git@github.com:deadplut/pet_website.git
+```
+
 ## Подготовка окружения и установка зависимостей.
 
 ```bash
