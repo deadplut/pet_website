@@ -11,7 +11,7 @@
 3. 3-я команда выведет ssh ключ, его нужно будет указать в github
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C your_email@example.com          
+ssh-keygen -t rsa -C your_email@example.com          
 ssh-add ~/.ssh/id_rsa
 cat ~/.ssh/id_rsa.pub
 ```
